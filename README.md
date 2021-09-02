@@ -8,6 +8,9 @@ We folk this repository from the [Span-ASTE repository](https://github.com/chiay
 Modify code to load ASOTE data:
 ![](figures/modify_code_to_load_asote.png)
 
+[Results](results/asote_results):
+![](figures/results.png)
+
 ### Usage
 
 [![Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F9zW_nVkwfwIVXTOA_juFDrlPz5TLjpK?usp=sharing)
